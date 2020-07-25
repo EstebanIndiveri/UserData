@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // import 'package:preferenciasusuarioapp/src/pages/settings_page.dart';
-import 'package:preferenciasusuarioapp/src/pages/widgets/menu_widget.dart';
+import 'package:preferenciasusuarioapp/src/widgets/menu_widget.dart';
 
 class HomePage extends StatelessWidget {
   static final String routeName='home';
